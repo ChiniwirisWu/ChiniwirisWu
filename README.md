@@ -3,7 +3,7 @@
 ## About Me
 - Studying Computer Science
 - Languages I speak are Spanish, English, and 汉语 (还学习!).
-- Fan of Phylosophy, Literature, and healthy lifestyle (and some Japanese animated series).
+- Fan of Phylosophy, Literature, and healthy lifestyle).
 - I belive that functionality and robust products > stylish ones.
 
 ## Languages and Tecnologies I known
