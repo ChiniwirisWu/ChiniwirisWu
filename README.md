@@ -6,7 +6,7 @@
 - Fan of Phylosophy, Literature, and healthy lifestyle).
 - I belive that functionality and robust products > stylish ones.
 
-## Languages and Tecnologies I known
+## Languages and Technologies I known
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
