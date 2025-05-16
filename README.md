@@ -2,9 +2,8 @@
 
 ## About Me
 - Studying Computer Science
-- Languages I speak are Spanish, English, and 汉语 (还学习!).
-- Fan of Phylosophy, Literature, and healthy lifestyle).
-- I belive that functionality and robust products > stylish ones.
+- Languages I speak: Spanish, English, and Chinese.
+- Fan of: Phylosophy and Literature.
 
 ## Languages and Technologies I known
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
