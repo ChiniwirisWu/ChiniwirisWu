@@ -1,15 +1,17 @@
 <h1 align="center"><b>Hi , I'm Gilberto Wu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About Me
-- Studying Computer Science
-- Languages I speak: Spanish, English, and Chinese.
-- Fan of: Phylosophy and Literature.
+I am currently studying Computer Science; I love learning languages, technologies, and other sciences. At least but not less important... my purpouse here is to make value somehow with code.
+From Venezuela and very affortunate for my friends and family.
 
+## My stats
+<div align="center">
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiniwirisWu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiniwirisWu)](https://github.com/anuraghazra/github-readme-stats)  
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniwirisWu)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 ## Languages and Technologies I known
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
