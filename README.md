@@ -7,9 +7,9 @@ From Venezuela and very affortunate for my friends and family.
 ## My stats
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiniwirisWu)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiniwirisWu&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniwirisWu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniwirisWu&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
