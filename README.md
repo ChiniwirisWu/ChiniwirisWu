@@ -5,6 +5,12 @@
 - Languages I speak: Spanish, English, and Chinese.
 - Fan of: Phylosophy and Literature.
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiniwirisWu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniwirisWu)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Languages and Technologies I known
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -19,6 +25,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiniwirisWu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniwirisWu)](https://github.com/anuraghazra/github-readme-stats)
