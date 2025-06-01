@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Gilberto Wu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About Me
-I am currently studying Computer Science; I love learning languages, technologies, and other sciences. At least but not less important... my purpouse here is to make value somehow with code.
+I am currently studying Computer Science; I love learning languages, technologies, and other sciences. Last and least but not less important... my purpouse here is to make value somehow with code.
 From Venezuela and very affortunate for my friends and family.
 
 ## My stats
